@@ -1,0 +1,7 @@
+# ninja log v5
+3	114	7222772852286248	CMakeFiles/camion_tp.dir/tp1_poisx_question1.c.obj	de74419b76b731fd
+8	683	7222768743316480	CMakeFiles/camion_tp.dir/main.cpp.obj	d79417b37feea56a
+3	312	7236880167425460	build.ninja	268ba4ddfb2c4ea2
+3	162	7222788080412002	camion_tp.exe	794d578a0a51f003
+11	167	7222772852830048	CMakeFiles/camion_tp.dir/tp2_posix.C.obj	ce6ecea9ea0ed59a
+3	104	7222773177963667	CMakeFiles/camion_tp.dir/tp2_posix.c.obj	a06ff6ea784292c2

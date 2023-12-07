@@ -1,0 +1,3 @@
+C:/Users/21697/Documents/gl4/str/camion-tp/cmake-build-debug/CMakeFiles/camion_tp.dir
+C:/Users/21697/Documents/gl4/str/camion-tp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/21697/Documents/gl4/str/camion-tp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
